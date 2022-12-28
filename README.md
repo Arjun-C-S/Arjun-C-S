@@ -104,7 +104,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=arjun-c-s&show_icons=true&locale=en&layout=compact"
         alt="arjun-c-s"/></p>
 
-<p>&nbsp;<img align="right" 
+<p>&nbsp;<img align="center" 
         src="https://github-readme-stats.vercel.app/api?username=arjun-c-s&show_icons=true&locale=en" alt="arjun-c-s" />
 </p>
 
